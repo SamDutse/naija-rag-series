@@ -67,7 +67,7 @@ The knowledge bases in this repo are **synthetic and written for teaching purpos
 
 ## Author
 
-**Samuel Yaula Dutse** — Lead Data Scientist at Bluehouse Technologies Ltd., AI/Data Science Instructor at Nexus Hub Limited, Jos, Nigeria.
+**Samuel Yaula Dutse** — Lead Data Scientist at Bluehouse Technologies Ltd., Jos, Nigeria.
 
 ## License
 
