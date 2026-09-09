@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.token
+
+# OS
+.DS_Store
+
+# FAISS index artifacts (if saved locally)
+*.faiss
+*.pkl

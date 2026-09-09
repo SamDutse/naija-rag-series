@@ -1,0 +1,6 @@
+langchain-huggingface
+langchain_community
+sentence-transformers
+faiss-cpu
+jupyter
+ipython
